@@ -1,0 +1,36 @@
+
+.button
+{
+	text-align: center;
+	height : 30px;
+	width : 120px;
+	padding-top: 5px;
+	opacity: 1;
+	font: 16pt 'Monda-Regular';
+	background: white;
+	color: #4c97be;
+}	
+
+.button:hover
+{
+	cursor: pointer;
+	background: #4c97be;
+	color: white;
+	border-radius: 5px;
+}
+
+.me{
+	cursor: pointer;
+	text-align: center;
+	height : 30px;
+	width : 120px;
+	padding-top: 5px;
+	opacity: 1;
+	font: 16pt 'Monda-Regular';
+	background: #4c97be;
+	color: white;
+	border-radius: 5px;
+}
+
+
+

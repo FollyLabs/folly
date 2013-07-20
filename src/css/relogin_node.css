@@ -1,0 +1,46 @@
+.error_msg
+{
+  position: relative;
+  width: 300px;
+  height: auto;
+  font: 12pt 'Monda-Regular';
+
+  padding: 4px 6px 4px 6px;
+  margin-bottom: 10px;
+  line-height: 20px;
+  color: #555555;
+  vertical-align: middle;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  background-color: #FFDDD0;
+  border: 1px solid #cccccc;
+}
+#relogin-dialog input[type="submit"]
+{
+  display: inline-block;
+  *display: inline;
+  width: 100%;
+  padding: 8px 12px;
+  margin-bottom: 20px;
+  *margin-left: .3em;
+  font: 12pt 'Monda-Regular';
+
+  color: white;
+  text-align: center;
+  vertical-align: middle;
+  cursor: pointer;
+  background-color: #4f8a1f;
+		border-radius: 5px;
+}
+
+#relogin-dialog input[type="submit"]:hover
+{
+ color: white;
+  text-decoration: none;
+  background-position: 0 -15px;
+  background-color: #4f8a1f;
+	opacity: 0.85;  
+}
+
+
